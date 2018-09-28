@@ -1,1 +1,1 @@
-From k8s.gcr.io/heapster:1.5.4
+From k8s.gcr.io/heapster-arm64:v1.5.3
