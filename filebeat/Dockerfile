@@ -1,1 +1,1 @@
-From docker.elastic.co/beats/filebeat:6.4.1
+From docker.elastic.co/beats/filebeat:6.4.3
